@@ -56,6 +56,8 @@ I'm passionate about data engineering, cloud infrastructure and machine learning
 - AWS Certified Cloud Practitioner
 - IBM: ETL and Data Pipelines with Airflow and Kafka
 - IBM: Python for Data Science & AI
+- GOOGLE: Process Data From Dirty To Clean
+- UDEMY: OOP With JAVA
 
 ## 🌍 Languages
 
