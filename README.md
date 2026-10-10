@@ -1,6 +1,6 @@
 # Hi, I'm Chahine 👋
 
-**Data & AI engineering student at [Polytech Nantes](https://www.polytech-nantes.fr/)**
+**Data & AI engineering student at [Polytech Nantes](https://polytech.univ-nantes.fr/)**
 
 I'm passionate about data engineering, cloud infrastructure and machine learning. I like building reliable pipelines that turn messy, real-world data into something useful, with a focus on monitoring, testing and clean engineering practices.
 
