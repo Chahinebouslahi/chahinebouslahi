@@ -6,7 +6,7 @@ I'm passionate about data engineering, cloud infrastructure and machine learning
 
 📍 Paris, France  
 🎓 MEng Data & AI (expected September 2028)  
-🔎 Looking for a **13-week Software Engineering / SRE internship, June–September 2027**
+
 
 ---
 
