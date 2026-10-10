@@ -66,6 +66,4 @@ English (fluent) · French (fluent) · Arabic (fluent) · Italian (basic)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/ChahineBouslahi](https://www.linkedin.com/in/chahine-bouslahi-b41880278/))
 [![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:chahine.bouslahi@outlook.fr)
 
----
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChahineBouslahi&show_icons=true&hide_border=true)
